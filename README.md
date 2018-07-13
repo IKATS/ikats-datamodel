@@ -3,6 +3,7 @@
 ![Docker Automated build](https://img.shields.io/docker/automated/ikats/datamodel.svg)
 ![Docker Build Status](https://img.shields.io/docker/build/ikats/datamodel.svg)
 ![MicroBadger Size](https://img.shields.io/microbadger/image-size/ikats/datamodel.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FIKATS%2Fikats-datamodel.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FIKATS%2Fikats-datamodel?ref=badge_shield)
 
 **An overview of IKATS global architecture is available [here](https://github.com/IKATS/IKATS)**
 
@@ -58,3 +59,7 @@ List of java operators at the moment:
 - [TrainTestSplit](/doc/operators/trainTestSplit.html)
 - [Merge Tables](/doc/operators/mergeTables.html)
 - [Population Selection](/doc/operators/populationSelection.html)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FIKATS%2Fikats-datamodel.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FIKATS%2Fikats-datamodel?ref=badge_large)
